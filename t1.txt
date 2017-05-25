@@ -1,3 +1,7 @@
 Hello, Git;
 I am new.
 Welcome me ?
+
+
+Yes, of course.
+Welcome.
