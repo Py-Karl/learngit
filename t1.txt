@@ -6,4 +6,8 @@ Welcome me ?
 Yes, of course.
 Welcome.
 
+<<<<<<< Updated upstream
 This is a free software.
+=======
+Test the git stash...
+>>>>>>> Stashed changes
